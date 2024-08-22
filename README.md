@@ -1,11 +1,15 @@
 Overview
+
 The Future Skill Recommendation System is a machine learning-based project designed to predict and recommend relevant skills for users based on current market trends, industry demands, and user profiles. This system helps users stay ahead in their careers by suggesting skills that are likely to be in high demand in the near future.
 
 Features
+
 Personalized Recommendations: Provides tailored skill recommendations based on user profiles and preferences.
 Trend Analysis: Utilizes data from various sources to identify emerging skill trends in different industries.
 User-Friendly Interface: A web-based interface that allows users to easily interact with the system and receive recommendations.
-Continuous Learning: The model is continuously updated with new data to improve the accuracy of predictions.
+
+Continuous Learning: 
+The model is continuously updated with new data to improve the accuracy of predictions.
 Installation
 Prerequisites
 Python 3.x
