@@ -9,6 +9,7 @@ Trend Analysis: Utilizes data from various sources to identify emerging skill tr
 User-Friendly Interface: A web-based interface that allows users to easily interact with the system and receive recommendations.
 
 Continuous Learning: 
+
 The model is continuously updated with new data to improve the accuracy of predictions.
 Installation
 Prerequisites
@@ -27,7 +28,8 @@ pip install -r requirements.txt
 Usage
 Data Preparation: Ensure your data is in the correct format as expected by the system. You can use the provided sample datasets as a reference.
 
-Model Training: Train the model using the provided training script. The training data should include user profiles, current skills, and industry trends.
+Model Training:
+Train the model using the provided training script. The training data should include user profiles, current skills, and industry trends.
 
 bash
 Copy code
@@ -40,6 +42,8 @@ Web Interface: Launch the web interface to interact with the system.
 bash
 Copy code
 python app.py
+
+
 Project Structure
 data/ - Directory containing datasets.
 models/ - Trained models and related scripts.
